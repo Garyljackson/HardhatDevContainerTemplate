@@ -45,3 +45,6 @@ Add the following line to the top of the `hardhat.config.js`
 ```
 require("@nomiclabs/hardhat-waffle");
 ```
+
+# Blog Post
+- [Garyjackson.dev](https://www.garyjackson.dev/posts/blockchain-development-vscode-dev-containers/)
